@@ -1,0 +1,12 @@
+<html>
+
+<body>
+
+<a href="哈利的简介.html" target="showframe">个人简介</a><br/>
+
+<a href="未来规划.html" target="showframe"> 未来规划</a><br>
+<a href="我的相册.html" target="showframe">爱好:摄影作品展示</a><br>
+<a href="https://blog.csdn.net/wei2019_?spm=1011.2124.3001.5343" target="showframe">个人博客</a><br>
+
+</body>
+</html>
